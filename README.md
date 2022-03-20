@@ -1,4 +1,4 @@
-# Moringa Core Week 2 IP
+# Financial Inclusion in East Africa
 #### An analysis of Financial Inclusion in East Africa
 #### By Deborah Masibo
 ## Description

@@ -1,6 +1,5 @@
 # Moringa Core Week 2 IP
-An analysis on the financial inclusion situation in East Africa
-#### An analysis on the Financial Inclusion Situation in East Africa,  Based on Access to Bank Accounts
+#### An analysis of Financial Inclusion in East Africa
 #### By Deborah Masibo
 ## Description
 

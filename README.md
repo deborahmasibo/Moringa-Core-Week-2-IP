@@ -1,5 +1,5 @@
 # Financial Inclusion in East Africa
-#### An analysis of Financial Inclusion in East Africa
+#### An analysis of the Financial Inclusion Situation in East Africa
 #### By Deborah Masibo
 ## Description
 
